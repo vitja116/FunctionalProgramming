@@ -1,3 +1,3 @@
 # FunctionalProgramming university course
-Viktors Bolsovs
+Viktors Boļšovs
 161RDB346
